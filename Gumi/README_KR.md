@@ -1,5 +1,5 @@
 
-# 구미 여행 가이드
+# 구미 생활 & 여행 가이드
 
 ## 교통
 
@@ -21,7 +21,7 @@
 
 ## 커피숍
 
-### Starbucks 
+### Starbucks
 * 경북 구미시 인동가산로 9-3 (삼성육교 앞)
 * 054-474-8260
 * http://www.istarbucks.co.kr/
@@ -34,18 +34,19 @@
 * 070-7209-0534
 * https://store.naver.com/restaurants/detail?id=37108086
 
-
 ### 용추떡볶이
 * 분식
 * 떡복이, 오뎅, 튀김
 * 경북 구미시 인동38길 15-14<br>(지번) 경상북도 구미시 구평동 451-7|
 
+### 코이라멘
+* 라멘
+* https://store.naver.com/restaurants/detail?entry=plt&id=1475639244&query=%EC%BD%94%EC%9D%B4%EB%9D%BC%EB%A9%98%20%EA%B5%AC%EB%AF%B8%EC%98%A5%EA%B3%84%EC%A0%90
 
 ## 극장
 
 ### 메가박스 구미 강동  
 * 위치: 인동    
-
 
 ## 행정 정보
 
