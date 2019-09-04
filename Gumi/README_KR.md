@@ -69,6 +69,8 @@
 
 ### 코이라멘
 * 라멘
+* 차슈 + 계란 추가는 기본
+* https://www.instagram.com/explore/tags/%EA%B5%AC%EB%AF%B8%EC%BD%94%EC%9D%B4%EB%9D%BC%EB%A9%98/
 * https://store.naver.com/restaurants/detail?entry=plt&id=1475639244&query=%EC%BD%94%EC%9D%B4%EB%9D%BC%EB%A9%98%20%EA%B5%AC%EB%AF%B8%EC%98%A5%EA%B3%84%EC%A0%90
 
 ## 극장
