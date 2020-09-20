@@ -1,3 +1,6 @@
+#### [Home]](../README.md)  
+#### [Korea version](README_KR.md)  
+---
 # Tourguide for Gumi
 
 ## Transportation
@@ -12,3 +15,7 @@ Intercity bus | * Gumi Bus Terminal<br>* There is a bus to Incheon Airport<br> *
 
 ### Geumosan
 * Google map: https://goo.gl/maps/yPJC61Xod6XdJVH87
+
+---
+#### [Home]](../README.md)  
+#### [Korea version](README_KR.md)  

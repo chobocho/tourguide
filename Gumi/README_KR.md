@@ -1,4 +1,7 @@
 
+#### [홈으로](../README.md)  
+#### [English version](README.md)  
+---
 # 구미 생활 & 여행 가이드
 
 ## 교통
@@ -91,3 +94,7 @@
 * 경상북도 구미시 송정대로 55
 * 054-480-6114
 * http://www.gumi.go.kr/ 
+
+---
+#### [홈으로](../README.md)  
+#### [English version](README.md)  
