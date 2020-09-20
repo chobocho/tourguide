@@ -1,3 +1,6 @@
+#### [홈으로](../README.md)  
+#### [English version](README.md)  
+---
 # 부산 여행 가이드
 
 
@@ -28,3 +31,7 @@
   * 팔금산
 
 ## 중구
+
+---
+#### [홈으로](../README.md)  
+#### [English version](README.md)  

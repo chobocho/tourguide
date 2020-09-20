@@ -12,6 +12,6 @@
 
 ### [Busan](Busan/README.md)    
 ### [Gumi](Gumi/README.md)    
-### [Incheon](Incheon/README_KR.md)  
+### [Incheon](Incheon/README.md)  
 ### [Jeju Island](JejuIsland/README.md)    
 ### [Seoul](Seoul/README.md)    
