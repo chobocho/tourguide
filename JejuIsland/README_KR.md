@@ -1,9 +1,9 @@
-#### [È¨À¸·Î](../README.md)  
+#### [í™ˆìœ¼ë¡œ](../README.md)  
 #### [English version](README.md)  
 ---
 # Tourguide
 Tourguide for Jeju Island
 
 ---
-#### [È¨À¸·Î](../README.md)  
+#### [í™ˆìœ¼ë¡œ](../README.md)  
 #### [English version](README.md)  
