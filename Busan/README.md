@@ -9,6 +9,8 @@
 * [National Maritime Museum](https://www.mmk.or.kr/eng/)
 * [Taejongdae Gonpo Cruise](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=266930)
 
+* [Songdo Cable Car](http://en.busanaircruise.co.kr/about/recommend?rank=2)
+
 ## Temple
 * [Haedong Yonggungsa Temple](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=264404)
 
