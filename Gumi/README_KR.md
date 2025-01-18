@@ -20,10 +20,14 @@
 금오산  | 구미의 명소
 금오지  | 금오산 앞에 있음
 금오랜드| 금오산 입구에 있음
+구미 성리학 역사관 | 금오산 입구에 있음
 
 ## 금오산
 * http://www.travie.com/news/articleView.html?idxno=19277
 * https://www.tripadvisor.co.kr/Attraction_Review-g1632071-d4730571-Reviews-Geumosan_Provincial_Park-Gumi_Gyeongsangbuk_do.html
+
+## 구미 성리학 역사관
+* https://www.gumi.go.kr/museum/  
 
 ## 도서관
 ### 경상북도교육청 구미도서관
@@ -36,9 +40,13 @@
 ### 구미 문화 예술 회관
 * http://www.gumi.go.kr/arts/main.do
 
-* 2020년 공연 일정
-  * 11/18 인형극 빨간아기토끼
-  * 12/11 명작뮤지컬 "장화신은 고양이"  
+* 2025년 공연 일정
+  * 1/19 지브리와 사랑에 빠지다 : 지브리 영화음악 콘서트 2025  
+  * 1/25 겨울왕국  
+
+* ~~2020년 공연 일정~~
+  * ~~11/18 인형극 빨간아기토끼~~
+  * ~~12/11 명작뮤지컬 "장화신은 고양이"~~  
 
 * ~~2019년 공연 일정~~  
   *  ~~9/27 정경화 바이올린 리사이틀~~
