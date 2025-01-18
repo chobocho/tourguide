@@ -8,7 +8,7 @@
 
 교통편| 내용  
 --------|---------------------------------------------------------------------------------------------------
-시내버스 |* 일반 : 1300원 (현금)<br>* 좌석 : 1700원 (현금)  <br>* 교통카드 사용시 환승 가능<br>* 구미버스 앱:<br>  - https://play.google.com/store/apps/details?id=com.tistory.agplove53.y2014.gumibus<br> 
+시내버스 |* 일반 : 1500원 (현금)<br>* 좌석 : 2000원 (현금)  <br>* 교통카드 사용시 환승 가능<br>* 구미버스 앱:<br>  - https://play.google.com/store/apps/details?id=com.tistory.agplove53.y2014.gumibus<br> 
 택시     | 카카오 택시 됩니다  
 시외버스 | 구미종합버스터미널<br>* 인천공항행버스 있음<br>* 경상북도 구미시 송원동로 72 종합버스터미널<br>* ☎ 1688-5655
 
@@ -82,14 +82,8 @@
 * 분식
 * 구미역앞
 * 추천메뉴
-	* 떡볶이 (1인분 3000원)
+	* 떡볶이 (1인분 4500원)
 	* 떡볶이 + 김말이 범벅
-
-### 코이라멘
-* 라멘
-* 차슈 + 계란 추가는 기본
-* https://www.instagram.com/explore/tags/%EA%B5%AC%EB%AF%B8%EC%BD%94%EC%9D%B4%EB%9D%BC%EB%A9%98/
-* https://store.naver.com/restaurants/detail?entry=plt&id=1475639244&query=%EC%BD%94%EC%9D%B4%EB%9D%BC%EB%A9%98%20%EA%B5%AC%EB%AF%B8%EC%98%A5%EA%B3%84%EC%A0%90
 
 ## 극장
 
